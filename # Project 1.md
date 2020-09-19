@@ -17,15 +17,20 @@ BONUS: RETURN ON SURPLUS
 
 ## Datasets to Be Used
 
-California State Population
-California Fire Damages per acre/sqft
-California Flood Damages per acre/sqft
+fire_loss_estimates(see folder)
+https://www.usfa.fema.gov/data/statistics/order_download_data.html#download
+Houding_units_2009.2019.csv
+FimaNfipClaims.csv
 
 ## Rough Breakdown of Tasks
 
-Find data on fire, flood, and population on last 5-10 years. 
+Find data on fire, flood, and housing population on last 5-10 years. 
 Clean data
+Write code for questions to answer
 Plot and Map datasets
 Determine Risk and Correlation
 Build dashboards
 Draw Conclusions
+
+Residential and nonresidential building fire and fire loss estimatesby propert us and cause (2003-2018)
+## LINK: https://www.usfa.fema.gov/data/statistics/order_download_data.html#download
